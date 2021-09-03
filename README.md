@@ -1,6 +1,6 @@
 # React Blog Template
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is my first project using React, and was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
